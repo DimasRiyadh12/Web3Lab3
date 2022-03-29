@@ -33,6 +33,10 @@
    Kemudian tambahkan code untuk membuat Unordered List, setalah deklarasi Ordered list pada section Unordered-List, Seperti berikut:
 
  ![img](screenshot/hasil5.png)
+
+   Lakukan Refresh, dan lihat perubahannya:
+
+ ![img](screenshot/hasil6.png)
  
 
 
