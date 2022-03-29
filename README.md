@@ -58,6 +58,9 @@
 
  ![img](screenshot/hasil10.png)
 
+   lalu refresh kembali web browser, dan amati lagi perubahannya:
+
+ ![img](screenshot/hasil11.png)
  
 
 
