@@ -12,7 +12,8 @@
 ## Langkah-langkah Praktikum
    Persiapkan membuat dokumen HTML dengan nama file lab3_tag_dasar.html seperti berikut:
 
- ![img](screenshot/ss1.png)
+ ![img](screenshot/hasil1.png)
+ 
 
 
 
