@@ -37,6 +37,12 @@
    Lakukan Refresh, dan lihat perubahannya:
 
  ![img](screenshot/hasil6.png)
+
+ ### Membuat Description List
+
+   Kemudian tambahkan code untuk membuat description list setelah deklarasi unordered-list:
+
+ ![img](screenshot/hasil7.png)
  
 
 
