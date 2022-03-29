@@ -17,6 +17,12 @@
    kemudian jalankan Web Browser dengan mengklik Menu Terminal pada pojok atas pada VS CODE. lihat perubahannya.
 
  ![img](screenshot/hasil2.png)
+
+ ### Membuat Ordered List
+   
+   kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
+
+ ![img](screenshot/hasil3.png)
  
 
 
