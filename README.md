@@ -47,6 +47,12 @@
    Refresh Kembali Web Browser, dan lihat perubahannya:
 
  ![img](screenshot/hasil8.png)
+
+   Selanjutnya lakukan eksperimen lain terkait dengan list dan penggunaan atribut type pada list.
+
+ ### Membuat Tabel - Buat file baru dengan nama lab3_tabel.html seperti berikut ini:
+
+ ![img](screenshot/hasil9.png)
  
 
 
