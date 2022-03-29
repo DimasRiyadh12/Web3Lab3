@@ -71,7 +71,11 @@
    Kemudian selanjutnya menambahkan kode untuk membuat tabel sederhana seperti berikut:
 
  ![img](screenshot/hasil13.png)
- 
+
+   Amati perubahannya pada mozilla atau web browser anda:
+
+ ![img](screenshot/hasil14.png)
+  
 
 
 
