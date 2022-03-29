@@ -13,6 +13,10 @@
    Persiapkan membuat dokumen HTML dengan nama file lab3_tag_dasar.html seperti berikut:
 
  ![img](screenshot/hasil1.png)
+
+   kemudian jalankan Web Browser dengan mengklik Menu Terminal pada pojok atas pada VS CODE. lihat perubahannya.
+
+ ![img](screenshot/hasil2.png)
  
 
 
