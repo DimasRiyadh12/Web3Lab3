@@ -75,6 +75,10 @@
    Amati perubahannya pada mozilla atau web browser anda:
 
  ![img](screenshot/hasil14.png)
+
+   Menambahkan Style CSS pada Form Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
+
+ ![img](screenshot/hasil15.png)
   
 
 
