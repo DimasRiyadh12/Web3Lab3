@@ -79,7 +79,12 @@
    Menambahkan Style CSS pada Form Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 
  ![img](screenshot/hasil15.png)
-  
+
+   Lakukan Refresh pada Web Browser, dan Simaklah perubahan yang terjadi setelahnya:
+
+ ![img](screenshot/hasil16.png)
+
+ ### Itulah penjelasan tentang cara membuat list,tabel dan form. kurang lebih nya mohon maaf sekian dan terima kasih.
 
 
 
