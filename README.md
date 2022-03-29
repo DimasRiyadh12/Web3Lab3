@@ -67,6 +67,10 @@
    Buatlah file baru dengan nama lab3_form.html seperti berikut:
 
  ![img](screenshot/hasil12.png)
+
+   Kemudian selanjutnya menambahkan kode untuk membuat tabel sederhana seperti berikut:
+
+ ![img](screenshot/hasil13.png)
  
 
 
