@@ -61,6 +61,12 @@
    lalu refresh kembali web browser, dan amati lagi perubahannya:
 
  ![img](screenshot/hasil11.png)
+
+ ### Membuat Form
+
+   Buatlah file baru dengan nama lab3_form.html seperti berikut:
+
+ ![img](screenshot/hasil12.png)
  
 
 
