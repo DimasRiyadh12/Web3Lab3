@@ -53,7 +53,13 @@
  ### Membuat Tabel - Buat file baru dengan nama lab3_tabel.html seperti berikut ini:
 
  ![img](screenshot/hasil9.png)
+
+   kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut ini:
+
+ ![img](screenshot/hasil10.png)
+
  
+
 
 
 
