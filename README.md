@@ -11,7 +11,8 @@
 # Praktikum 3: Membuat List, Table dan Form
 ## Langkah-langkah Praktikum
    Persiapkan membuat dokumen HTML dengan nama file lab3_tag_dasar.html seperti berikut:
- ![gambar1](screenshot)/ss1.png
- 
+
+ ![img](screenshot/ss1.png)
+
 
 
