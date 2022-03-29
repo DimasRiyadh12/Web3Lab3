@@ -27,6 +27,12 @@
    kemudian lakukan refresh pada web browser, dan Lihat perubahannya:
 
  ![img](screenshot/hasil4.png)
+
+ ### Membuat Unordered List
+   
+   Kemudian tambahkan code untuk membuat Unordered List, setalah deklarasi Ordered list pada section Unordered-List, Seperti berikut:
+
+ ![img](screenshot/hasil5.png)
  
 
 
