@@ -23,6 +23,10 @@
    kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
 
  ![img](screenshot/hasil3.png)
+
+   kemudian lakukan refresh pada web browser, dan Lihat perubahannya:
+
+ ![img](screenshot/hasil4.png)
  
 
 
